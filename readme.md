@@ -9,7 +9,6 @@ Este é um projeto de ensino para Node.js. O obejetivo desse projeto é cirar um
 $ node --version
 
 ```
-
 * CLiente Git (https://git-scm.com). Verfique a instalação digitando:
 ```bash
 $ git --version
@@ -34,3 +33,14 @@ $ node app
 ``` 
 
 A aplicação está configurada para rodar na porta 3000. Para acessar a aplicação, entrar no endereço http://localhost:3000 . Para alterar o número da prota, editar o arquivo 'app.js'.
+
+## Desenvolvimento 
+
+O projeto foi desenvolvido com:
+
+* [Node.js](https://node.js.org) . Plataforma de desenvolvimento Javascript
+* [Sublime Text](https://www.sublimetext.com) . Editor de texto para programação
+
+## Autores 
+
+* **Luiz Preussler** . [LuizPreussler](https://github.com/LuizPreussler/) 

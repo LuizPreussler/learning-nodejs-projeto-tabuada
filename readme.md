@@ -38,9 +38,9 @@ A aplicação está configurada para rodar na porta 3000. Para acessar a aplica�
 
 O projeto foi desenvolvido com:
 
-* [Node.js](https://node.js.org) . Plataforma de desenvolvimento Javascript
-* [Sublime Text](https://www.sublimetext.com) . Editor de texto para programação
+* [Node.js](https://node.js.org) - Plataforma de desenvolvimento Javascript
+* [Sublime Text](https://www.sublimetext.com) - Editor de texto para programação
 
 ## Autores 
 
-* **Luiz Preussler** . [LuizPreussler](https://github.com/LuizPreussler/) 
+* **Luiz Preussler** - [LuizPreussler](https://github.com/LuizPreussler/) 
